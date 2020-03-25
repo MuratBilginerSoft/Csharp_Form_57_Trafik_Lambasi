@@ -1,0 +1,14 @@
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\Trafik Lambası v1.0\Trafik Lambası v1.0\bin\Debug\Trafik Lambası v1.0.exe
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\Trafik Lambası v1.0\Trafik Lambası v1.0\bin\Debug\Trafik Lambası v1.0.pdb
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik_Lambası_v1._0.Form1.resources
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik_Lambası_v1._0.Properties.Resources.resources
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik Lambası v1.0.csproj.GenerateResource.Cache
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik Lambası v1.0.exe
+c:\users\mrt_b\onedrive\belgeler\visual studio 2010\Projects\Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik Lambası v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\74 Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik Lambası v1.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\74 Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik Lambası v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\74 Trafik Lambası v1.0\Trafik Lambası v1.0\bin\Debug\Trafik Lambası v1.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\74 Trafik Lambası v1.0\Trafik Lambası v1.0\bin\Debug\Trafik Lambası v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\74 Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik_Lambası_v1._0.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\74 Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik_Lambası_v1._0.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\74 Trafik Lambası v1.0\Trafik Lambası v1.0\obj\x86\Debug\Trafik Lambası v1.0.csproj.GenerateResource.Cache
